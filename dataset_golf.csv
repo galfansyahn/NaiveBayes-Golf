@@ -54,7 +54,6 @@ overcast,cool,high,False,yes
 rainy,mild,high,False,yes
 sunny,mild,normal,False,yes
 overcast,hot,normal,False,yes
-sunny,cool,high,True,no
 rainy,hot,high,True,no
 overcast,mild,high,True,yes
 sunny,hot,high,False,no
